@@ -1,0 +1,6 @@
+Pi has been setup for remote desktop ascess. This however does not allow you to create or exhange files. 
+it does however let you coppy text from clipbopard 
+
+a software calle proftpd has been installed on this Pi which is a service that can be started with: service proftpd start 
+using filezilla on my pc and connecting with sftp://192.168.1.183 standing for secure ftp. 
+login credentials are the same as for SSH and port is left unspecified on filezilla dispite the fact it is 21 for some reason. 
